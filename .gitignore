@@ -1,0 +1,11 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Local tooling
+.agents/
